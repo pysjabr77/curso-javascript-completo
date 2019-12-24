@@ -14,9 +14,12 @@
       - ES2017                        2017
   - Onde incluir codigos Javascript. Vantagens e desvantagens
     - TTFB: Time to First Byte
-  - 
+  - Sistema lexico parte I
+  - Sistema lexico parte II
+  - Potencia de base 10
 
 #Secao 3: Ferramentas para um cacador de bugs
+  - Como depurar javascript no browser
 
 #Secao 4: Overview sobre orientacao a objetos
 
